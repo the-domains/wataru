@@ -2,12 +2,13 @@ name: wataru
 favicon: null
 layout_spectrum: 0.6615660723764449
 typography_spectrum: 0.7402699438389391
+title: wataru
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73941685-1
   facebook: null
   twitter: null
 opengraph:
