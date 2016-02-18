@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[wataru]]></title>
+        <description><![CDATA[wataru]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 13:58:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeeae460-ac66-4cac-a735-d229b29c51e0.gif" alt="Bobo the robo" title="">]]></description>
+            <link>undefined1da82cc7-3d60-4ee6-a876-848a81df11d5/index.html</link>
+            <guid isPermaLink="false">1da82cc7-3d60-4ee6-a876-848a81df11d5</guid>
+            <pubDate>Thu, 18 Feb 2016 13:58:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
