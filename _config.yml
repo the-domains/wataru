@@ -1,6 +1,6 @@
 name: wataru
 favicon: null
-layout_spectrum: 0.6615660723764449
+layout_spectrum: 1
 typography_spectrum: 0.60046
 title: wataru
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#fefff7'
+    - '#9e9bb0'
+    - '#694623'
+    - '#7f7065'
   brandStrength: 0.044836715096607804
-  lightness: 0.39089569239877164
+  lightness: 0.0625
   saturation: 0.6431409304495901
   rhythmicContrast: 0.9767254160251468
 purpose: []
