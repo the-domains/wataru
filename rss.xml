@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[wataru]]></title>
         <description><![CDATA[wataru]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wataru/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 13:58:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 09:55:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wataru/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coffee at Rico Coffee]]></title>
+            <description><![CDATA[<article><h1>Coffee at Rico Coffee</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/859e89f82d1f58d4c3263d4e24360dd3283d7f55.png"></article>]]></description>
+            <link>https://thegrid.ai/wataru/coffee-at-rico-coffee/index.html</link>
+            <guid isPermaLink="false">1b1b2600-3e78-4a31-9a40-0aeac3373e35</guid>
+            <pubDate>Sun, 21 Feb 2016 09:55:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeeae460-ac66-4cac-a735-d229b29c51e0.gif" alt="Bobo the robo" title="">]]></description>
-            <link>undefined1da82cc7-3d60-4ee6-a876-848a81df11d5/index.html</link>
+            <link>https://thegrid.ai/wataru/1da82cc7-3d60-4ee6-a876-848a81df11d5/index.html</link>
             <guid isPermaLink="false">1da82cc7-3d60-4ee6-a876-848a81df11d5</guid>
             <pubDate>Thu, 18 Feb 2016 13:58:04 GMT</pubDate>
         </item>
