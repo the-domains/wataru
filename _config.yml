@@ -1,29 +1,41 @@
-name: wataru
-favicon: null
-layout_spectrum: 0.01165
-typography_spectrum: 0.60046
 title: wataru
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6431409304495901
+  brandStrength: 0.0448367150966078
+  lightness: 0.0625
+  brandColors:
+    - '#010201'
+    - '#FFFEF9'
+    - '#A3ACC7'
+    - '#9A6539'
+    - '#E8A45C'
+  rhythmicContrast: 0.9767254160251468
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-73941685-1
   facebook: null
-  twitter: null
+name: wataru
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#fefff7'
-    - '#9e9bb0'
-    - '#694623'
-    - '#7f7065'
-  brandStrength: 0.044836715096607804
-  lightness: 0.0625
-  saturation: 0.6431409304495901
-  rhythmicContrast: 0.9767254160251468
-purpose: []
+typography_spectrum: 0.60046
+layout_spectrum: 0.01165
